@@ -1,0 +1,15 @@
+age = int(input("Enter Age: "))
+salary = int(input("Enter Salary: "))
+credit = int(input("Enter Credit Score: "))
+loan = int(input("Existing Loans: "))
+
+if age < 21 or age > 60:
+    print("Rejected: Invalid Age.")
+elif salary < 80000:
+    print("Rejected: Salary too low.")
+elif credit < 750:
+    print("Rejected: Credit Score too low.")
+elif loan > 2:
+    print("Rejected: Too many existing loans.")
+else:
+    print("Loan Approved.")
