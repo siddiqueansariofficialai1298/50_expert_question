@@ -1,0 +1,14 @@
+
+balance = float(input("Enter Balance: "))
+withdraw = float(input("Enter Withdrawal Amount: "))
+
+if withdraw % 500 != 0:
+    print("Withdrawal amount must be multiple of 500.")
+elif withdraw > balance:
+    print("Insufficient Balance.")
+elif balance - withdraw < 1000:
+    print("Minimum balance of 1000 must remain.")
+else:
+    balance = withdraw
+    print("Transaction Successful.")
+    print("Remaining Balance:", balance)
