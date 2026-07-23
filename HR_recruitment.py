@@ -19,4 +19,4 @@ if degree == "yes":
         print("Experience Required")
 
 else:
-    print("Degree Required")v
+    print("Degree Required")
