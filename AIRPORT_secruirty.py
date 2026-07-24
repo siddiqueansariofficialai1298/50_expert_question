@@ -17,4 +17,4 @@ if passport == "yes":
     else:
         print("Invalid Ticket")
 else:
-    print("❌ Passport Missing")
+    print("Passport Missing")
