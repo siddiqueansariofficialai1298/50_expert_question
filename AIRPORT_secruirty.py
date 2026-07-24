@@ -1,4 +1,4 @@
-print("===== Airport Security =====")
+print(" Airport Security ")
 
 passport = input("Passport Available (yes/no): ").lower()
 ticket = input("Valid Ticket (yes/no): ").lower()
@@ -9,12 +9,12 @@ if passport == "yes":
     if ticket == "yes":
         if baggage <= 30:
             if dangerous == "no":
-                print("✅ Security Cleared")
+                print("Security Cleared")
             else:
-                print("❌ Dangerous Item Detected")
+                print("Dangerous Item Detected")
         else:
-            print("❌ Baggage Limit Exceeded")
+            print("Baggage Limit Exceeded")
     else:
-        print("❌ Invalid Ticket")
+        print("Invalid Ticket")
 else:
     print("❌ Passport Missing")
