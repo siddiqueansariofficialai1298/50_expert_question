@@ -1,4 +1,4 @@
-print("===== ATM =====")
+print(" ATM ")
 
 balance = 50000
 
