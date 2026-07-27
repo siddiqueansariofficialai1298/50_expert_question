@@ -1,4 +1,4 @@
-print("===== Hostel Allotment =====")
+print(" Hostel Allotment ")
 
 merit = float(input("Merit Percentage: "))
 distance = int(input("Distance from University (KM): "))
