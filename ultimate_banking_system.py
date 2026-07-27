@@ -1,4 +1,4 @@
-print("===== MINI BANKING SYSTEM =====")
+print(" MINI BANKING SYSTEM ")
 
 balance = 100000
 pin = 1234
