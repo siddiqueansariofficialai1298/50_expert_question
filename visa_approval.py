@@ -1,4 +1,4 @@
-print("===== Visa Approval =====")
+print(" Visa Approval ")
 
 passport = input("Passport (yes/no): ").lower()
 bank = int(input("Bank Balance: "))
