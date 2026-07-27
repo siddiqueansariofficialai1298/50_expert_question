@@ -1,4 +1,4 @@
-print("===== Train Reservation =====")
+print(" Train Reservation ")
 
 seats = int(input("Available Seats: "))
 age = int(input("Age: "))
