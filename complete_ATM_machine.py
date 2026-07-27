@@ -1,4 +1,4 @@
-print("===== ATM MACHINE =====")
+print(" ATM MACHINE ")
 
 balance = 100000
 pin = 1234
