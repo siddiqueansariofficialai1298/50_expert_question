@@ -1,4 +1,4 @@
-print("===== Online Shopping =====")
+print(" Online Shopping ")
 
 bill = float(input("Enter Purchase Amount: "))
 premium = input("Premium Member (yes/no): ").lower()
