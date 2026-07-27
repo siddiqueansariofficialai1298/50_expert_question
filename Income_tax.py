@@ -1,4 +1,4 @@
-print("===== Income Tax Calculator =====")
+print(" Income Tax Calculator ")
 
 income = int(input("Annual Income: "))
 
