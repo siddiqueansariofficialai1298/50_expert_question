@@ -1,4 +1,4 @@
-print("===== Car Insurance =====")
+print(" Car Insurance ")
 
 car_age = int(input("Car Age: "))
 accidents = int(input("Number of Accidents: "))
