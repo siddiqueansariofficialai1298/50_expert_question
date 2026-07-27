@@ -1,4 +1,4 @@
-print("===== Car Rental =====")
+print(" Car Rental ")
 
 age = int(input("Age: "))
 license = input("Driving License (yes/no): ").lower()
