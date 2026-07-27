@@ -1,4 +1,4 @@
-print("===== Credit Card Approval =====")
+print(" Credit Card Approval ")
 
 salary = int(input("Salary: "))
 credit = int(input("Credit Score: "))
