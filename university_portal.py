@@ -1,4 +1,4 @@
-print("===== UNIVERSITY ADMISSION =====")
+print(" UNIVERSITY ADMISSION ")
 
 inter = float(input("Intermediate %: "))
 entry = float(input("Entry Test %: "))
