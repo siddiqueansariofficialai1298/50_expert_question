@@ -1,4 +1,4 @@
-print("===== Insurance Premium =====")
+print(" Insurance Premium ")
 
 age = int(input("Age: "))
 smoker = input("Smoker (yes/no): ").lower()
