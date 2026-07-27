@@ -1,4 +1,4 @@
-print("===== Hotel Booking =====")
+print(" Hotel Booking ")
 
 days = int(input("Days: "))
 room = input("Room (standard/deluxe/suite): ").lower()
