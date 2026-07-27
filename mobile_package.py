@@ -1,4 +1,4 @@
-print("===== Mobile Package =====")
+print(" Mobile Package ")
 
 recharge = int(input("Recharge Amount: "))
 
