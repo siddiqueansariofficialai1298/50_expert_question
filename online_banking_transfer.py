@@ -1,4 +1,4 @@
-print("===== Online Banking Transfer =====")
+print(" Online Banking Transfer ")
 
 balance = 100000
 pin = 1234
@@ -12,13 +12,13 @@ if user_pin == pin:
         if amount <= balance:
             if amount <= 50000:
                 balance -= amount
-                print("✅ Transfer Successful")
+                print("Transfer Successful")
                 print("Remaining Balance:", balance)
             else:
-                print("❌ Daily Transfer Limit Exceeded")
+                print("Daily Transfer Limit Exceeded")
         else:
-            print("❌ Insufficient Balance")
+            print("Insufficient Balance")
     else:
-        print("❌ Receiver Not Verified")
+        print("Receiver Not Verified")
 else:
-    print("❌ Incorrect PIN")
+    print("Incorrect PIN")
