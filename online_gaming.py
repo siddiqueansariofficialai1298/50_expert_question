@@ -1,4 +1,4 @@
-print("===== Gaming Login =====")
+print(" Gaming Login ")
 
 username = input("Username: ")
 password = input("Password: ")
