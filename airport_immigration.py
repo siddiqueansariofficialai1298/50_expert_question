@@ -1,4 +1,4 @@
-print("===== IMMIGRATION =====")
+print(" IMMIGRATION ")
 
 passport = input("Passport (yes/no): ").lower()
 visa = input("Visa (yes/no): ").lower()
