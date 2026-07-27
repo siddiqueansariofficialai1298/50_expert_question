@@ -1,4 +1,4 @@
-print("===== Employee Bonus =====")
+print(" Employee Bonus ")
 
 salary = float(input("Salary: "))
 performance = int(input("Performance (1-100): "))
