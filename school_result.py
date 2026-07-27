@@ -1,4 +1,4 @@
-print("===== School Result =====")
+print(" School Result ")
 
 english = int(input("English: "))
 math = int(input("Math: "))
@@ -10,7 +10,7 @@ total = english + math + science + computer + urdu
 percentage = total / 5
 
 if english < 40 or math < 40 or science < 40 or computer < 40 or urdu < 40:
-    print("❌ FAIL")
+    print("FAIL")
 else:
     print("Percentage =", percentage)
 
