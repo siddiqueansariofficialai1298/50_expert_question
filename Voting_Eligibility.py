@@ -1,4 +1,4 @@
-print("===== Voting System =====")
+print(" Voting System ")
 
 age = int(input("Age: "))
 cnic = input("CNIC Available (yes/no): ").lower()
