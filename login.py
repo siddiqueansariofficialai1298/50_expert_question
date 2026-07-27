@@ -1,4 +1,4 @@
-print("<<<enter your login account info>>>")
+print(" enter your login account info ")
 user_name=str(input("please enter your username :"))
 password=int(input("please enter your current passward :"))
 
