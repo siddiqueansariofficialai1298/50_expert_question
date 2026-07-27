@@ -1,4 +1,4 @@
-print("===== Passport Verification =====")
+print(" Passport Verification ")
 
 cnic = input("Valid CNIC (yes/no): ").lower()
 police = input("Police Verification (yes/no): ").lower()
