@@ -1,4 +1,4 @@
-print("===== School Fee =====")
+print(" School Fee ")
 
 fee = 50000
 
