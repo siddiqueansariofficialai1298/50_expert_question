@@ -1,4 +1,4 @@
-print("===== Salary Calculator =====")
+print(" Salary Calculator ")
 
 basic = float(input("Basic Salary: "))
 overtime = int(input("Overtime Hours: "))
