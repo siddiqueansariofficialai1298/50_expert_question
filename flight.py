@@ -1,4 +1,4 @@
-print("===== Flight Boarding =====")
+print(" Flight Boarding ")
 
 passport = input("Passport (yes/no): ").lower()
 visa = input("Visa (yes/no): ").lower()
@@ -11,10 +11,10 @@ if passport == "yes":
             if weight <= 30:
                 print("✈ Boarding Allowed")
             else:
-                print("❌ Extra Baggage")
+                print("Extra Baggage")
         else:
-            print("❌ Ticket Not Confirmed")
+            print("Ticket Not Confirmed")
     else:
-        print("❌ Visa Missing")
+        print("Visa Missing")
 else:
-    print("❌ Passport Missing")
+    print("Passport Missing")
