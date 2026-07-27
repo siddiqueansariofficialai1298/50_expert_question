@@ -1,4 +1,4 @@
-print("===== Netflix Subscription =====")
+print(" Netflix Subscription ")
 
 plan = input("Plan (basic/standard/premium): ").lower()
 payment = input("Payment Successful (yes/no): ").lower()
