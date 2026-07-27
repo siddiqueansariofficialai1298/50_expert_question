@@ -1,4 +1,4 @@
-print("===== AMAZON BILLING =====")
+print(" AMAZON BILLING ")
 
 bill = float(input("Shopping Amount: "))
 
