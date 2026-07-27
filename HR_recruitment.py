@@ -1,4 +1,4 @@
-print("===== HR RECRUITMENT =====")
+print(" HR RECRUITMENT ")
 
 degree = input("Degree (yes/no): ").lower()
 experience = int(input("Experience: "))
