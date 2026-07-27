@@ -1,4 +1,4 @@
-print("===== Employee Payroll =====")
+print(" Employee Payroll ")
 
 salary = float(input("Basic Salary: "))
 overtime = int(input("Overtime Hours: "))
