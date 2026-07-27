@@ -1,4 +1,4 @@
-print("===== Loan Interest =====")
+print(" Loan Interest ")
 
 credit = int(input("Credit Score: "))
 salary = int(input("Monthly Salary: "))
