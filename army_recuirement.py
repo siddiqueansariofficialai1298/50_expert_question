@@ -1,4 +1,4 @@
-print("===== Army Recruitment =====")
+print(" Army Recruitment ")
 
 height = float(input("Height (cm): "))
 weight = float(input("Weight (kg): "))
