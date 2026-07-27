@@ -1,4 +1,4 @@
-print("===== POLICE VERIFICATION =====")
+print(" POLICE VERIFICATION ")
 
 cnic = input("CNIC Available (yes/no): ").lower()
 criminal = input("Criminal Record (yes/no): ").lower()
