@@ -1,4 +1,4 @@
-print("===== Hospital Priority =====")
+print(" Hospital Priority  ")
 
 age = int(input("Age: "))
 emergency = input("Emergency (yes/no): ").lower()
