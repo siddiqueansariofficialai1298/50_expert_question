@@ -1,4 +1,4 @@
-print("===== Airline Booking =====")
+print(" Airline Booking ")
 
 ticket = 30000
 
