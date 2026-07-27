@@ -1,4 +1,4 @@
-print("===== Traffic Challan =====")
+print(" Traffic Challan ")
 
 helmet = input("Helmet (yes/no): ").lower()
 license = input("License (yes/no): ").lower()
