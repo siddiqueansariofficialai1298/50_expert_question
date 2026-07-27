@@ -1,4 +1,4 @@
-print("===== Online Exam =====")
+print(" Online Exam ")
 
 attendance = int(input("Attendance %: "))
 fee = input("Fee Paid (yes/no): ").lower()
